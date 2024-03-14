@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.class
+*.dll
+*.exe
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+.classpath
+.project
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
